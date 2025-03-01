@@ -1,4 +1,4 @@
-from functools import reduce
+
 def solution(num_list):
     mul = 1
     for i in num_list:
